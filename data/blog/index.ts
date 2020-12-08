@@ -1,6 +1,6 @@
 
 const nav = {
-  title: '博客看点',
+  title: '博发鬼地方',
   nav: [
     {
       title: '',
